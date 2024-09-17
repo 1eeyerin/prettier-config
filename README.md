@@ -1,1 +1,5 @@
-# eslint-config
+## prettier-config 🩵
+
+```
+npm i @1eeyerin/prettier-config
+```

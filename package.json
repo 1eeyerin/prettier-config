@@ -1,0 +1,24 @@
+{
+  "name": "@1eeyerin/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier config",
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "main": "index.js",
+  "author": "lyr@kakao.com",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/prettier": "^3.0.0"
+  },
+  "peerDependencies": {
+    "prettier": "^3.2.4"
+  },
+  "optionalDependencies": {
+    "@types/prettier": "^3.0.0"
+  }
+}
